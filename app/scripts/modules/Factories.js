@@ -1,0 +1,1 @@
+var factoriesModule = angular.module('billManagerFactories', []);
